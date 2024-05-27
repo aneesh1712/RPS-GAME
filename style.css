@@ -1,0 +1,19 @@
+ #gamediv{
+    border:3px solid;
+    border-radius:15px;
+    background-color:rgb(118, 139, 193);
+    padding:10px;
+    text-align:center;
+    font-family:'Courier New', Courier, monospace
+  }
+
+  .choice{
+    height:30px;
+    width:90px;
+  }
+#player{
+  color:blue;
+}
+#computer{
+  color:red;
+}
